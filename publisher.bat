@@ -1,0 +1,1 @@
+mosquitto_pub -h 127.0.0.1 -t /anenometer/one -m {\"speed\":1.5,\"direction\":\"SW\",\"timestamp\":\"20181101160110\"}
